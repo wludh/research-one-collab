@@ -19,6 +19,6 @@ Some past presentations have included:
 
 We welcome suggestions for both winter spring term courses.
 
-For more information, contact: DHAT@wlu.edu
+For more information, contact: DHAT [at] wlu [dot] edu
 
 
