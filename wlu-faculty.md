@@ -1,4 +1,4 @@
-*CFP for Collaboration between W&L and UVA for Graduate Student Visits*
+**CFP for Collaboration between W&L and UVA for Graduate Student Visits**
 
 Funded by the Andrew W. Mellon Foundation, Washington and Lee University is collaborating with the Scholars’ Lab at the University of Virginia to bring UVA graduate students to give presentations or workshops on their digital research to enrich undergraduate courses at W&L. The grant aims to give students and faculty in W&L courses exposure to cutting edge pedagogy and digital tools.
 
