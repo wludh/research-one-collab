@@ -23,4 +23,5 @@ Some past presentations have included:
 For more information, contact:
 
 Brandon Walsh - walshb [at] wlu [dot] edu
+
 Jeremy Boggs – jkb2b [at] virginia [dot] edu
