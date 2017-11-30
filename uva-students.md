@@ -20,6 +20,8 @@ Some past presentations have included:
 * Lecture on the history of technology in fashion and hands-on sewing workshop for a seminar on Fashion in Global History, drawing on grad student’s own research in wearable technology
 * Design jams for helping students scope, shape, and develop their own course projects
 
+Participants are encouraged to cross post to both the Scholars' Lab and WLUDH blogs after participating to document their work. You can find past posts [here](Participants are encouraged to cross post to both the Scholars' Lab and WLUDH blogs after participating to document their work. You can find past posts here.).
+
 For more information, contact:
 
 Brandon Walsh - bmw9t [at] virginia [dot] edu
