@@ -1,6 +1,6 @@
 **CFP for Collaboration between W&L and UVA for Graduate Student Visits**
 
-Funded by the Andrew W. Mellon Foundation, Washington and Lee University is collaborating with the Scholars’ Lab at the University of Virginia to bring UVA graduate students to give presentations or workshops on their digital research to enrich undergraduate courses at W&L. The grant aims to give graduate students the opportunity to develop workshop materials based on their work in digital humanities and to gain experience teaching in a liberal arts context in preparation for the job market. W&L courses and students gain contact with cutting edge digital research and pedagogy. 
+Funded by the Andrew W. Mellon Foundation, Washington and Lee University is collaborating with the Scholars’ Lab at the University of Virginia to bring UVA graduate students to give presentations or workshops on their digital research to enrich undergraduate courses at W&L. The grant aims to give graduate students the opportunity to develop workshop materials based on their work in digital humanities and to gain experience teaching in a liberal arts context in preparation for the job market. W&L courses and students gain contact with cutting edge digital research and pedagogy.
 
 Graduate students who participate receive a $500 honorarium in exchange for their work consulting with the W&L faculty member, preparing and delivering their materials in a course visit, and then following up with the faculty member afterwards. We will work to match interested students with appropriate W&L courses. The opportunities are numerous, and we are happy to work with you to develop something productive for both faculty member and graduate student. These framing questions might help:
 
@@ -22,6 +22,4 @@ Some past presentations have included:
 
 For more information, contact:
 
-Brandon Walsh - walshb [at] wlu [dot] edu
-
-Jeremy Boggs – jkb2b [at] virginia [dot] edu
+Brandon Walsh - bmw9t [at] virginia [dot] edu
